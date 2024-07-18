@@ -73,4 +73,3 @@ class ProductController extends GetxController {
     return null;
   }
 }
-//list_name.refresh(); update list item and refresh ui
